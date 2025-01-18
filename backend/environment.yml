@@ -6,7 +6,7 @@ dependencies:
   - conda-forge::fastapi
   - conda-forge::uvicorn
   - conda-forge::pydantic
-  - conda-forge::pydub
+  - conda-forge::libsqlite
   - pip
   - pip:
     - openai
